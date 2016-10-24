@@ -1,0 +1,4773 @@
+318				Junction 1	Junction 2	Junction 3	Junction 4	Junction 5	junction 6	
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]		 in die 3.Zeile und 4. Spalte des Zahlenblocks: code  Farbenwahl für llm				a
+1	1	3	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile 										
+trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+2	1	3	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+3	1	3	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+4	1	3	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+5	1	3	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+6	1	3	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+7	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+8	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+9	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+10	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+11	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+12	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+13	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+14	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+15	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+16	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+17	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+18	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+19	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+20	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+21	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+22	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+23	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+24	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+25	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+26	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+27	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+28	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+29	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+30	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+31	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+32	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+33	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+34	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+35	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+36	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+37	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+38	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+39	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+40	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+41	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+42	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+43	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+44	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+45	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+46	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+47	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+48	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+49	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+50	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+51	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+52	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+53	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+54	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+55	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+56	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+57	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+58	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+59	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+60	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+61	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+62	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+63	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+64	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+65	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+66	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+67	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+68	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+69	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+70	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+71	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+72	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+73	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+74	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+75	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+76	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+77	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+78	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+79	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+80	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+81	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+82	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+83	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+84	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+85	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+86	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+87	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+88	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+89	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+90	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+91	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+92	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+93	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+94	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+95	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+96	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+97	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+98	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+99	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+100	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+101	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+102	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+103	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+104	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+105	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+106	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+107	1	2	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+108	1	2	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+109	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+110	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+111	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+112	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+113	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+114	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+115	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+116	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+117	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+118	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+119	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+120	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+121	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+122	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+123	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+124	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+125	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+126	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+127	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+128	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+129	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+130	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+131	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+132	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+133	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+134	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+135	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+136	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+137	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+138	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+139	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+140	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+141	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+142	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+143	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+144	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+145	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+146	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+147	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+148	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+149	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+150	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+151	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+152	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+153	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+154	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+155	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+156	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+157	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+158	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+159	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+160	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+161	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+162	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+163	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+164	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+165	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+166	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+167	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+168	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+169	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	11	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+170	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+171	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+172	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+173	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+174	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+175	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+176	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+177	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+178	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+179	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+180	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+181	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+182	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+183	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+184	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+185	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+186	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+187	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+188	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+189	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+190	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+191	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+192	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+193	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+194	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+195	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+196	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+197	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+198	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+199	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+200	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+201	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile 										
+trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+202	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+203	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+204	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+205	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+206	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+207	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+208	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+209	1	4	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+210	1	4	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+211	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+212	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+213	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+214	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+215	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+216	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+217	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+218	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+219	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+220	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+221	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+222	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+223	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+224	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+225	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+226	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+227	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+228	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+229	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+230	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+231	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+232	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+233	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+234	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+235	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+236	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+237	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+238	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+239	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+240	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+241	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+242	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+243	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+244	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+245	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+246	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+247	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+248	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+249	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+250	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+251	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+252	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+253	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+254	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+255	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+256	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+257	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+258	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+259	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+260	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+261	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+262	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+263	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+264	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+265	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+266	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+267	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+268	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+269	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+270	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+271	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+272	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+273	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+274	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+275	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+276	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+277	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+278	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+279	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+280	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+281	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+282	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+283	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+284	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+285	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+286	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+287	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+288	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+289	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+290	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+291	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+292	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+293	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+294	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+295	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+296	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+297	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+298	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+299	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+300	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+301	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+302	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+303	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+304	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+305	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+306	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+307	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+308	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+309	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+310	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+311	1	6	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						c
+312	1	6	1	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+313	1	3	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+314	1	3	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+315	1	3	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						a
+316	1	3	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+317	1	3	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+Leerzeile - ab hier g?tige Daten										
+   trial[i].index,	        trial[i].start_j,	        trial[i].cage,	        trial[i].end_j	trial[].trialjunction[].feeder[]						b
+318	1	3	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	1	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	            distal_lm:array [0..1]	trial[].trialjunction[].lm_junction[]						
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	1	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0	
+88	88	88	88	0	0	0	0	0	0
+88	88	88	88	0	0	0	0	0	0
+**									
+**									
+99									

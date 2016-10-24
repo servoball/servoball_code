@@ -1,0 +1,64 @@
+C:\labdat\
+0						dummy_alpha_lab ( alpha_lab stellt die Drehrichtung des Labyrinths ein)		
+1						maze_shape (Form des Labyrinths)		
+0						colour_ground ( 0 oder 1, Farbverlauf am Boden)		
+1						colour_sky ( 0 oder 1, Farbverlauf am Himmel)		
+1						start_junction		
+1						number_of_ypsilons		
+10						decision_radius ( in camera units)		
+5000						duct_width		
+3						Anzahl der Kreuzungen insgesamt		
+*****	*****	*****	*****	*****	*****	*****	*****	*****
+junction_id	y_center	number_of_exits	x_junction	z_junction				
+0	1	0	0	0				
+exit 1	exit 2	exit 3						
+1	2	3				duct_identifier		
+0	0	0				exit_angle		
+2	3	4				next_junction		
+0	0	0				duct_length		
+2	2	2				duct_wall_height		
+0	0	0				upper_wall		
+0	0	0				upper_wall_height		
+0	0	0				lm_typ1_a		
+0	0	0				lm_typ1_b		
+0	0	0				lm_typ1_c		
+0	0	0				lm_typ2_a		
+0	0	0				lm_typ2_b		
+0	0	0				lm_typ2_c		
+*****	*****	*****	*****	*****	*****	*****	*****	*****
+junction_id	y_center	number_of_exits	x_junction	z_junction				
+1	1	1	0	0				
+exit 1	exit 2	exit 3						
+1	0	0				duct_identifier		
+0	0	0				exit_angle		
+2	0	0				next_junction		
+5000	0	0				duct_length		
+2	0	0				duct_wall_height		
+0	0	0				upper_wall		
+0	0	0				upper_wall_height		
+0	0	0				lm_typ1_a		
+0	0	0				lm_typ1_b		
+0	0	0				lm_typ1_c		
+0	0	0				lm_typ2_a		
+0	0	0				lm_typ2_b		
+0	0	0				lm_typ2_c		
+*****	*****	*****	*****	*****	*****	*****	*****	*****
+junction_id	y_center	number_of_exits	x_junction	z_junction				
+2	0	1	20	0				
+exit 1								
+1						duct_identifier		
+180						exit_angle		
+1						next_junction		
+5000						duct_length		
+2						duct_wall_height		
+0						upper_wall		
+0						upper_wall_height		
+0						lm_typ1_a		
+0						lm_typ1_b		
+0						lm_typ1_c		
+0						lm_typ2_a		
+0						lm_typ2_b		
+0						lm_typ2_c		
+*****	*****	*****	*****	*****	*****	*****	*****	*****
+*****	*****	*****	*****	*****	*****	*****	*****	*****
+99								
